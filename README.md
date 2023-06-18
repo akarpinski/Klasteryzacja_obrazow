@@ -1,2 +1,2 @@
-#### Klasteryzacja obrazow
+### Klasteryzacja obrazow
 Klasteryzacja obrazów w Pythonie
