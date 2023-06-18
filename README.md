@@ -1,3 +1,5 @@
 ### Klasteryzacja obrazow
-1.Klasteryzacja obrazów w Pythonie.
-2.Uczenie maszynowe nienadzorowane.
+<ul>
+  <li>Klasteryzacja obrazów w Pythonie.</li>
+  <li>Uczenie maszynowe nienadzorowane.</li>
+ </ul>
