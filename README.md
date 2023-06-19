@@ -1,4 +1,4 @@
-### Klasteryzacja obrazow
+### Klasteryzacja obrazów
 <ul>
   <li>Klasteryzacja obrazów w Pythonie.</li>
   <li>Uczenie maszynowe nienadzorowane.</li>
